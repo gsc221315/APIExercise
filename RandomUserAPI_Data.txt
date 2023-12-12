@@ -1,0 +1,66 @@
+{
+  "results": [
+    {
+      "gender": "female",
+      "name": {
+        "title": "Ms",
+        "first": "آدرینا",
+        "last": "رضاییان"
+      },
+      "location": {
+        "street": {
+          "number": 3180,
+          "name": "شهید آقاسرمدیان"
+        },
+        "city": "قدس",
+        "state": "اردبیل",
+        "country": "Iran",
+        "postcode": 56664,
+        "coordinates": {
+          "latitude": "14.9953",
+          "longitude": "126.0496"
+        },
+        "timezone": {
+          "offset": "-12:00",
+          "description": "Eniwetok, Kwajalein"
+        }
+      },
+      "email": "adryn.rdyyn@example.com",
+      "login": {
+        "uuid": "03b056a1-8131-4a32-b909-1e5d01d46b99",
+        "username": "organicbutterfly934",
+        "password": "1989",
+        "salt": "foeNmk7M",
+        "md5": "f9d99767e9d63c3d214e8eb64c08b2e8",
+        "sha1": "fdc954b4932cd883e065c7ab8ce77fc503195818",
+        "sha256": "9ea9861c0f958de9a69e194d01e16a07d727f72a808b816b7e78e817fb3db017"
+      },
+      "dob": {
+        "date": "1965-03-06T21:51:16.201Z",
+        "age": 58
+      },
+      "registered": {
+        "date": "2019-08-10T11:13:29.262Z",
+        "age": 4
+      },
+      "phone": "008-24755722",
+      "cell": "0932-149-5939",
+      "id": {
+        "name": "",
+        "value": null
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/2.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/2.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/2.jpg"
+      },
+      "nat": "IR"
+    }
+  ],
+  "info": {
+    "seed": "2e1e24a1a52dda16",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+  }
+}
